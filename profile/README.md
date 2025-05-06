@@ -39,7 +39,6 @@ Check out our public repositories for:
 
 We welcome contributions, feedback, and collaboration from the community.
 
----
 
 ## Technologies We Use
 
@@ -65,8 +64,6 @@ We love using robust and modern technologies, including but not limited to:
 - Vercel, DigitalOcean, Railway  
 - CI/CD Pipelines, Monitoring & Logging  
 
----
-
 ## Contributing
 
 We welcome all contributions! Whether it's a feature request, bug fix, or a new idea — we’d love your help.
@@ -81,13 +78,9 @@ To get started:
 
 Please read our [Contributing Guide](https://github.com/DevInite/.github/blob/main/CONTRIBUTING.md) for more information.
 
----
-
 ## Code of Conduct
 
 Everyone interacting with our codebases, issue trackers, and community spaces is expected to follow our [Code of Conduct](https://github.com/DevInite/.github/blob/main/CODE_OF_CONDUCT.md).
-
----
 
 ## Get in Touch
 
@@ -95,7 +88,5 @@ Everyone interacting with our codebases, issue trackers, and community spaces is
 - **Email:** [hello@devinite.com](mailto:hello@devinite.co)
 - **Twitter:** [@devinitehq](https://twitter.com/devinitehq)
 - **Telegram:** [@devinite](https://t.me/devinite)
-
----
 
 > *Code with purpose. Create with passion. Build with DevInite.*
